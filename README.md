@@ -6,7 +6,7 @@ This project contains a Jupyter Notebook named **`coversions.ipynb`**, which dem
 
 - **Image to text Conversion**: Converts image data into sound (e.g., sonification or encoding visual data as audio).
 - **text to audio Conversion**: Uses speech recognition or audio processing to extract text from spoken audio files.
-  **Evaluating the arthematic expression given in audio with Regualr Expressions**
+- **Evaluating the arthematic expression given in audio with Regualr Expressions**
 These conversions are useful in accessibility, multimedia processing, and AI-powered applications.
 
 ---
